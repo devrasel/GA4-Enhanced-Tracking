@@ -1,1 +1,1 @@
-# GA4-Enhanced-Tracking
+# GA4-Enhanced-Tracking for wordpress - plugin
